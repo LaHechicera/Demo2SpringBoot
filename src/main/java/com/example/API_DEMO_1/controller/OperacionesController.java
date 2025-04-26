@@ -12,7 +12,7 @@ public class OperacionesController {
     //3. Agregamos saludo
     @GetMapping("/saludo")
     public String saludo(){
-        return "Bienvenido a mi API demo";
+        return "Bienvenido a mi API demo la mas kul";
     }
 
     //4. Saludaremos recibiendo un parametro mediante la url //Entre llaves lle decimos a la url que vamos a recibir algo
